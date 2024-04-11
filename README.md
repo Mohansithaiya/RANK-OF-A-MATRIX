@@ -18,14 +18,16 @@ To write a python program to find the rank of a matrix
  End the program.
 
 ## Program:
+```python
+Program to find the rank of a matrix.
+Developed by: MOHAN.S
+RegisterNumber: 212223240094
 
-#Program to find the rank of a matrix.
-#Developed by: MOHAN.S
-#RegisterNumber: 212223240094
 import numpy as np
 a=np.array([[1,2,3],[3,6,9]])
 ans=np.linalg.matrix_rank(a)
 print(ans)
+```
 
 ## Output:
 
