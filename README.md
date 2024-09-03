@@ -1,4 +1,5 @@
-# RANK-OF-A-MATRIX
+# DATE:
+# EX.NO.02 RANK-OF-A-MATRIX
 ## Aim:
 To write a python program to find the rank of a matrix
 
@@ -31,7 +32,8 @@ print(ans)
 
 ## Output:
 
-![alt text](<Screenshot 2024-04-11 135513.png>)
+![Screenshot 2024-09-03 214426](https://github.com/user-attachments/assets/819c97d9-3eed-4bed-b0ac-bc6401cd6c95)
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
